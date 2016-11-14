@@ -9,8 +9,8 @@ go的压力测试
 
 node的压力测试
 --------
-![image](https://github.com/xtgxiso/WebWorker-benchmark/blob/master/benchmark/node/node.ab.png)
+![image](https://github.com/xtgxiso/WebWorker-benchmark/blob/master/node/node.ab.png)
 
 php的压力测试
 --------
-![image](https://github.com/xtgxiso/WebWorker-benchmark/blob/master/benchmark/php/php.ab.png)
+![image](https://github.com/xtgxiso/WebWorker-benchmark/blob/master/php/php.ab.png)
